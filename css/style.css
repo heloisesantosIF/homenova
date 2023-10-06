@@ -15,3 +15,17 @@ body {
   background-color: #fff;
 }
 
+.navbar navbar-expand-lg navbar-light bg-light{
+    background: rgba(2, 80, 17, 1);
+    padding-inline: 16px;
+}
+
+.navbar-nav{
+    display: flex;
+    gap: 32px;
+}
+
+.navbar-nav a {
+    font-size: 18px;
+    padding-block: 16px;
+}
